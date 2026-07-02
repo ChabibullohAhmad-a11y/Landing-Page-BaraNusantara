@@ -32,7 +32,7 @@ open index.html
 npx serve .
 ```
 
-🌐 **Live Demo:** [https://landing-page-bara-nusantara-habeb.vercel.app](https://landing-page-bara-nusantara-habeb.vercel.app)
+🌐 **Live Demo:** [Kunjungi Bara Nusantara](https://landing-page-bara-nusantara-habeb.vercel.app)
 
 ---
 
