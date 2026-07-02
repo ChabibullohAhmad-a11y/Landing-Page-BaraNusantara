@@ -2,8 +2,6 @@
 
 Sebuah landing page B2B (_single-file_) multibahasa (EN/ID) untuk bisnis ekspor briket arang batok kelapa. Dibuat sebagai portofolio front-end premium dengan estetika gelap/emas tanpa memerlukan proses _build step_.
 
-**[Masukkan link demo / screenshot Vercel di sini nanti]**
-
 ## ✨ Fitur Utama
 
 - **Multibahasa (EN/ID) Berbasis Client-Side i18n** — Menggunakan objek terpusat `languages`, atribut `data-i18n`, dan fungsi `switchLanguage()` untuk mengubah seluruh teks halaman secara instan tanpa perlu memuat ulang (_reload_) halaman.
@@ -33,3 +31,11 @@ open index.html
 # Atau jalankan menggunakan local server
 npx serve .
 ```
+
+🌐 **Live Demo:** [https://landing-page-bara-nusantara-habeb.vercel.app](https://landing-page-bara-nusantara-habeb.vercel.app)
+
+---
+
+## 📸 Pratinjau Project
+
+![Bara Nusantara Preview](preview.png)
